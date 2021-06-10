@@ -1,1 +1,1 @@
-# derivative_calculator
+# A diy derivative calculator project, taken up at the beginning of Summer 2021. The project was written entirely in Python, and made use of BNF and regular expressions to parse mathematical expressions. The calculator project also includes an evaluator, whose implementation was used as practice for the derivative calculator. 
